@@ -2,7 +2,7 @@
 
 Easily convert your `.ps1` PowerShell scripts into `.exe` executables using a user-friendly graphical interface. This tool leverages the `ps2exe` module and provides an icon assignment option — all in a few clicks.
 
-![Tool Icon](./assets/icon.png)
+![Tool Icon](./assets/execonv.ico)
 
 ## 🚀 Features
 
